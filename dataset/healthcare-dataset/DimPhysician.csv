@@ -1,0 +1,933 @@
+dimPhysicianPK,ProviderNpi,ProviderName,ProviderSpecialty,ProviderFTE
+216332,187719108,Zuniga,Physician Assistant,1.00
+215759,187700570,Zhang,Nurse Practitioner,0.90
+215806,187716326,Yoder,Nurse Practitioner,1.00
+215760,187720694,Yates,Nurse Practitioner,1.00
+216264,187714896,Willis,Nurse Practitioner,0.37
+216403,187703274,Williams,Nurse Practitioner,0.18
+212304,187723866,Wiggins,Social Worker - Clinical,0.09
+216297,187724308,Wells,Physician Assistant,0.50
+215260,187708396,Webster,Nurse Practitioner,1.00
+215607,187711152,Watts,Physician Assistant,0.25
+216635,187719056,Warren,Nurse Practitioner,0.90
+216020,187710528,Velez,Nurse Practitioner,1.00
+218381,187710528,Velez,Nurse Practitioner,1.00
+216105,187719888,Vega,Nurse Practitioner,1.00
+216515,187715234,Vasquez,Physician Assistant,0.25
+215648,187719862,Vance,Physician Assistant,1.00
+216124,187708188,Valencia,Nurse Practitioner,0.50
+215833,187715364,Tyler,Nurse Practitioner,1.00
+216570,187715806,Turner,Physician Assistant,0.90
+216728,187705172,Trevino,Nurse Practitioner,0.90
+215370,187706082,Strong,Nurse Practitioner,0.90
+216561,187720590,Soto,Physician Assistant,1.00
+215609,187702676,Sosa,Nurse Practitioner,1.00
+217513,187714298,Snyder,Physician Assistant,0.90
+216531,187707356,Simpson,Physician Assistant,0.90
+216596,187720642,Sharp,Nurse Practitioner,0.75
+217240,187713232,Sellers,Physician Assistant,0.17
+215994,187714740,Schmidt,Nurse Practitioner,1.00
+216988,187706576,Saunders,Physician Assistant,0.90
+215872,187706550,Santiago,Physician Assistant,1.00
+216777,187707200,Santana,Physician Assistant,1.00
+216583,187721214,Salas,Registered Nurse,1.00
+215844,187716716,Roy,Physician Assistant,1.00
+215448,187719420,Roth,Physician Assistant,0.13
+216522,187715624,Rivera,Physician Assistant,1.00
+217295,187718172,Ritter,Nurse Practitioner,0.75
+216579,187699946,Rich,Physician Assistant,0.16
+216005,187721708,Rice,Physician Assistant,1.00
+215196,187718432,Reyes,Physician Assistant,0.90
+215224,187712426,Reed,Nurse Practitioner,1.00
+216298,187717418,Raymond,Nurse Practitioner,0.90
+215322,187710918,Rasmussen,Nurse Practitioner,0.50
+215810,187716534,Rangel,Nurse Practitioner,1.00
+216254,187712062,Prince,Nurse Practitioner,1.00
+215442,187718224,Powell,Nurse Practitioner,1.00
+216208,187720668,Poole,Nurse Practitioner,0.50
+215235,187703924,Ponce,Physician Assistant,1.00
+217187,187706524,Pollard,Physician Assistant,0.90
+216670,187701532,Pierce,Physician Assistant,1.00
+215385,187721422,Phillips,Nurse Practitioner,1.00
+216543,187710320,Petty,Physician Assistant,1.00
+215494,187724126,Petersen,Nurse Practitioner,1.00
+216542,187720980,Peters,Nurse Practitioner,0.75
+215497,187713492,Perkins,Physician Assistant,1.00
+215480,187723580,Pennington,Physician Assistant,1.00
+215932,187701688,Owens,Nurse Practitioner,0.16
+215570,187702650,Ortega,Physician Assistant,0.50
+215441,187712842,Oneill,Physician Assistant,0.75
+217114,187710892,Oliver,Nurse Practitioner,0.90
+216719,187712790,Odonnell,Physician Assistant,0.90
+215907,187704912,Oconnor,Nurse Practitioner,1.00
+216608,187717652,Norris,Nurse Practitioner,1.00
+217037,187709228,Nixon,Physician Assistant,0.60
+217309,187706264,Nguyen,Physician Assistant,0.00
+218448,187718822,Neal,Social Worker - Clinical,0.11
+215357,187718536,Navarro,Nurse Practitioner,0.90
+216833,187716066,Nash,Physician Assistant,0.90
+215564,187711828,Munoz,Nurse Practitioner,0.90
+216953,187708682,Mullen,Physician Assistant,0.90
+216062,187708032,Moyer,Nurse Practitioner,1.00
+217626,187709540,Mosley,Nurse Practitioner,0.44
+216071,187716664,Morse,Registered Nurse,1.00
+215960,187712036,Morrow,Nurse Practitioner,1.00
+215484,187721006,Montgomery,Physician Assistant,0.90
+215840,187709956,Miranda,Physician Assistant,1.00
+216016,187708370,Mills,Nurse Practitioner,1.00
+212444,187708448,Miller,Behavioral Clinician,0.41
+216459,187711256,Michael,Physician Assistant,1.00
+215936,187717860,Meyers,Nurse Practitioner,0.75
+215857,187719446,Mercado,Physician Assistant,1.00
+217093,187711854,Mcmillan,Nurse Practitioner,0.90
+216882,187706134,Mckee,Physician Assistant,0.80
+216646,187709904,Mcintosh,Registered Nurse,0.90
+215740,187701662,Mcfarland,Nurse Practitioner,1.00
+216775,187712816,Mcdowell,Nurse Practitioner,0.63
+216470,187715390,Mcdonald,Nurse Practitioner,1.00
+215432,187721188,Mccann,Nurse Practitioner,1.00
+216061,187724022,Martin,Nurse Practitioner,0.50
+215301,187704730,Marshall,Nurse Practitioner,1.00
+217721,187714324,Marsh,Nurse Practitioner,0.50
+215986,187711750,Malone,Physician Assistant,1.00
+212332,187723554,Mahoney,Behavioral Clinician,0.10
+215262,187716612,Madden,Nurse Practitioner,0.30
+217785,187708500,Lynch,Physician Assistant,0.00
+213767,187712582,Lowery,Social Worker - Clinical,0.16
+216892,187705198,Long,Nurse Practitioner,0.90
+216098,187710606,Lindsey,Physician Assistant,0.75
+215856,187702130,Leon,Nurse Practitioner,0.45
+216848,187718484,Le,Nurse Practitioner,1.00
+216983,187700050,Lamb,Nurse Practitioner,1.00
+214180,187717028,Knight,Physician Assistant,1.00
+216211,187703248,Klein,Nurse Practitioner,0.90
+215835,187719602,Kirby,Nurse Practitioner,1.00
+215592,187713830,Key,Student,0.96
+216557,187703508,Keith,Midwife,0.02
+215304,187715026,Kaufman,Physician Assistant,1.00
+216700,187719758,Juarez,Nurse Practitioner,0.39
+218256,187714714,Johnson,Nurse Practitioner,0.20
+215368,187707382,Johns,Nurse Practitioner,1.00
+216503,187719966,Jacobs,Nurse Practitioner,1.00
+217432,187703820,Irwin,Physician Assistant,1.00
+216714,187717964,Huber,Physician Assistant,0.75
+215635,187712946,Horne,Physician Assistant,0.07
+211846,187722306,Horn,Behavioral Clinician,0.04
+216825,187714116,Hopkins,Nurse Practitioner,1.00
+217052,187706966,Hodges,Nurse Practitioner,1.00
+215756,187720148,Hodge,Nurse Practitioner,0.75
+215939,187717886,Hobbs,Nurse Practitioner,1.00
+216450,187721838,Higgins,Physician Assistant,1.00
+216709,187718198,Hickman,Physician Assistant,1.00
+216362,187720928,Herrera,Physician Assistant,0.90
+215983,187721812,Hernandez,Physician Assistant,1.00
+215460,187717106,Henry,Nurse Practitioner,0.90
+215694,187717938,Henderson,Nurse Practitioner,0.75
+216369,187714948,Hebert,Nurse Practitioner,1.00
+215716,187722332,Harris,Physician Assistant,1.00
+215808,187703612,Harmon,Nurse Practitioner,0.80
+216159,187705146,Hansen,Nurse Practitioner,1.00
+215777,187714402,Hanna,Physician Assistant,0.07
+215535,187701636,Hall,Physician Assistant,1.00
+214432,187708422,Griffith,Behavioral Clinician,0.10
+215814,187706290,Gomez,Nurse Practitioner,1.00
+215334,187723242,Gilbert,Nurse Practitioner,1.00
+215908,187716144,Gibbs,Physician Assistant,1.00
+217423,187711776,Gentry,Nurse Practitioner,1.00
+216617,187715260,Gay,Student,0.09
+216917,187705822,Garner,Nurse Practitioner,1.00
+215585,187709046,Fuller,Physician Assistant,1.00
+216296,187703794,Fuentes,Physician Assistant,1.00
+216759,187702702,Fry,Nurse Practitioner,0.75
+216870,187709488,Fritz,Nurse Practitioner,0.60
+216845,187703326,Franklin,Physician Assistant,1.00
+216929,187720954,Foster,Nurse Practitioner,1.00
+215586,187700596,Foley,Physician Assistant,1.00
+216357,187717444,Fletcher,Nurse Practitioner,0.50
+217075,187704340,Ferrell,Physician Assistant,0.90
+215552,187706758,Faulkner,Nurse Practitioner,1.00
+217168,187709124,Farrell,Physician Assistant,0.90
+218239,187709332,Ellison,Physician Assistant,0.14
+216011,187706914,Edwards,Physician Assistant,0.90
+216316,187704496,Dunlap,Physician Assistant,1.00
+216715,187702572,Douglas,Physician Assistant,1.00
+218370,187707174,Dougherty,Social Worker - Clinical,0.36
+215418,187701714,Dorsey,Nurse Practitioner,1.00
+215341,187715416,Donovan,Behavioral Clinician,0.48
+215455,187719914,Dixon,Physician Assistant,0.90
+215228,187717132,Dickson,Nurse Practitioner,1.00
+215901,187723216,Dennis,Nurse Practitioner,1.00
+215601,187709202,Davies,Physician Assistant,0.90
+216028,187711932,Daugherty,Nurse Practitioner,1.00
+216504,187711178,Daniels,Nurse Practitioner,1.00
+216581,187712400,Curry,Physician Assistant,1.00
+215580,187711100,Cordova,Physician Assistant,1.00
+216477,187717756,Cooper,Nurse Practitioner,1.00
+215721,187718848,Compton,Nurse Practitioner,1.00
+215387,187709748,Combs,Nurse Practitioner,1.00
+216041,187700154,Coffey,Physician Assistant,0.90
+216096,187715546,Clayton,Nurse Practitioner,1.00
+215300,187713648,Chung,Nurse Practitioner,1.00
+216276,187721734,Christensen,Nurse Practitioner,0.75
+215865,187701974,Chambers,Nurse Practitioner,1.00
+211008,187719082,Carroll,Social Worker - Clinical,0.43
+215947,187705744,Campos,Physician Assistant,1.00
+216333,187708786,Cameron,Behavioral Clinician,0.24
+213596,187701376,Camacho,Student,0.11
+216765,187717158,Callahan,Physician Assistant,1.00
+215949,187724334,Burgess,Physician Assistant,0.05
+213803,187707642,Buchanan,Behavioral Clinician,0.29
+217025,187713778,Bryant,Nurse Practitioner,0.90
+216891,187714662,Brock,Nurse Practitioner,1.00
+215221,187700882,Bradley,Physician Assistant,0.75
+216144,187713752,Bonilla,Nurse Practitioner,1.00
+215321,187715598,Blankenship,Midwife,0.07
+216384,187715572,Bird,Physician Assistant,1.00
+215297,187721162,Best,Physician Assistant,0.50
+216080,187719342,Bernard,Nurse Practitioner,0.30
+215298,187719706,Beltran,Specialist,1.00
+216121,187716794,Beard,Nurse Practitioner,0.90
+215632,187710294,Bauer,Physician Assistant,1.00
+216409,187713180,Barrett,Nurse Practitioner,0.90
+215323,187711412,Arnold,Nurse Practitioner,0.90
+218052,187707434,Andrade,Nurse Practitioner,0.90
+216789,187706108,Adkins,Nurse Practitioner,1.00
+216717,187707044,Acosta,Nurse Practitioner,1.00
+215176,187702858,Dr. Bruce,Radiology,0.65
+215178,187717990,Dr. Vazquez,Pathology,0.80
+215181,187706706,Dr. Bartlett,Pediatrics,0.60
+215182,187707486,Dr. Rocha,Family Medicine,1.00
+215183,187701012,Dr. Sherman,Pediatrics,0.20
+215184,187700102,Dr. Baker,Psychiatry & Neurology,0.65
+215188,187704158,Dr. Whitaker,Radiology,1.00
+215189,187700700,Dr. Townsend,Radiology,0.95
+215191,187724152,Dr. Castillo,Radiology,0.37
+215192,187708058,Dr. Boyle,Obstetrics & Gynecology,0.19
+215193,187709098,Dr. Benton,Pediatrics,0.45
+215195,187702312,Dr. Cain,Family Medicine,1.00
+215197,187716300,Dr. Mcconnell,Surgery,0.85
+215198,187713336,Dr. Fernandez,Internal Medicine,1.00
+215199,187702780,Dr. Bray,Internal Medicine,1.00
+215202,187719550,Dr. Liu,Surgery,0.41
+215203,187712686,Dr. Gonzalez,Physical Medicine & Rehabilitation,0.36
+215207,187714480,Dr. Delgado,Radiology,0.85
+215210,187718250,Dr. Salazar,Psychologist,0.25
+215216,187715208,Dr. Barrera,Obstetrics & Gynecology,0.67
+215217,187722644,Dr. Chaney,Internal Medicine,0.45
+215218,187700362,Dr. Walton,Emergency Medicine,1.00
+215220,187721890,Dr. Harrington,Surgery - Pediatric Surgery,0.95
+215226,187712010,Dr. Travis,Internal Medicine,0.90
+215227,187702910,Dr. Estrada,Radiology,1.00
+215230,187711542,Dr. Lyons,Internal Medicine,0.96
+215231,187718562,Dr. Barr,Emergency Medicine,1.00
+215233,187713310,Dr. Walter,Nuclear Medicine,0.85
+215234,187701558,Dr. Hays,Radiology,0.95
+215236,187716430,Dr. Phelps,Family Medicine,1.00
+215239,187703898,Dr. Woodard,Pediatrics,0.20
+215242,187723918,Dr. Vincent,Psychiatry & Neurology,1.00
+215243,187701194,Dr. Conley,Family Medicine,1.00
+215244,187710684,Dr. Cisneros,Ophthalmology,0.45
+215246,187712192,Dr. Massey,Internal Medicine,0.57
+215247,187701948,Dr. York,Family Medicine,0.58
+215248,187719680,Dr. Sims,Psychologist,0.41
+215250,187714688,Dr. Boone,Internal Medicine,0.60
+215251,187713076,Dr. Mckenzie,Family Medicine,1.00
+215252,187711334,Dr. Fitzpatrick,Internal Medicine,0.42
+215254,187705094,Dr. Rodriguez,Surgery - Vascular Surgery,1.00
+215258,187704366,Dr. Beck,Radiology,1.00
+215261,187700518,Dr. Page,Pediatrics,0.95
+215266,187715442,Dr. Ryan,Internal Medicine,0.93
+215267,187704028,Dr. Quinn,Internal Medicine,0.61
+215269,187702416,Dr. Carpenter,Obstetrics & Gynecology,0.86
+215275,187718380,Dr. Norman,Family Medicine,1.00
+215276,187721630,Dr. Mccarty,Emergency Medicine,1.00
+215278,187711490,Dr. Castaneda,Radiology,0.65
+215280,187705068,Dr. Villegas,Emergency Medicine,1.00
+215281,187715962,Dr. Hardin,Internal Medicine,0.90
+215282,187702104,Dr. Woods,Internal Medicine,1.00
+215283,187718354,Dr. Melton,Internal Medicine,0.62
+215285,187700934,Dr. Stuart,Pediatrics,0.19
+215288,187720200,Dr. Cunningham,Radiology,0.95
+215289,187712218,Dr. Palmer,Family Medicine,1.00
+215290,187715182,Dr. Gates,Ophthalmology,0.28
+215291,187706602,Dr. Boyer,Family Medicine,0.80
+215294,187709306,Dr. Stanton,Internal Medicine,0.80
+215295,187700024,Dr. Snow,Pediatrics,1.00
+215307,187708084,Dr. Lynn,Internal Medicine,0.70
+215309,187701116,Dr. Woodward,Family Medicine,0.75
+215310,187701922,Dr. Orr,Family Medicine,1.00
+215311,187709176,Dr. Serrano,Family Medicine,1.00
+215315,187711048,Dr. Kidd,Pathology,0.15
+215319,187704418,Dr. Bullock,Internal Medicine,0.15
+215320,187702624,Dr. Sparks,Internal Medicine,0.50
+215324,187706628,Dr. Lewis,Internal Medicine,0.55
+215325,187701038,Dr. Barry,Orthopaedic Surgery,0.02
+215326,187709410,Dr. Carlson,Internal Medicine,0.44
+215327,187722618,Dr. Esparza,Radiology,0.34
+215328,187710762,Dr. Guzman,Surgery,1.00
+215331,187719784,Dr. Olson,Internal Medicine,0.90
+215332,187712608,Dr. Villanueva,Internal Medicine,1.00
+215338,187713206,Dr. Holland,Radiology,1.00
+215339,187722800,Dr. Pineda,Psychiatry & Neurology,0.50
+215340,187706212,Dr. Sexton,Radiology,0.90
+215342,187712322,Dr. Arias,Emergency Medicine,1.00
+215344,187717548,Dr. Drake,Radiology,0.80
+215345,187706238,Dr. Sloan,Radiology,0.95
+215349,187705328,Dr. Brown,Family Medicine,0.90
+215350,187701090,Dr. Elliott,Surgery,1.00
+215352,187713544,Dr. Trujillo,Internal Medicine,0.30
+215355,187715676,Dr. Cross,Internal Medicine,1.00
+215358,187722930,Dr. Olsen,Internal Medicine,0.97
+215365,187707694,Dr. Stephens,Emergency Medicine,1.00
+215367,187723060,Dr. Armstrong,Family Medicine,0.62
+215369,187718328,Dr. Bass,Internal Medicine,0.75
+215371,187710138,Dr. Decker,Internal Medicine,0.95
+215373,187706420,Dr. Miles,Internal Medicine,0.72
+215374,187707278,Dr. Noble,Emergency Medicine,1.00
+215376,187723736,Dr. Mayo,Internal Medicine,1.00
+215380,187701818,Dr. Ayala,Family Medicine,0.20
+215381,187718770,Dr. Shelton,Family Medicine,1.00
+215389,187704652,Dr. Schwartz,Psychiatry & Neurology,0.75
+215391,187705042,Dr. Valdez,Internal Medicine,0.52
+215395,187723138,Dr. Duke,Pathology,0.75
+215398,187707408,Dr. Tate,Family Medicine,0.70
+215399,187723814,Dr. Parks,Surgery,1.00
+215400,187722072,Dr. Clay,Radiology,1.00
+215401,187720538,Dr. Young,Emergency Medicine,1.00
+215404,187716690,Dr. Mcguire,Physical Medicine & Rehabilitation,0.65
+215409,187703404,Dr. Kline,Internal Medicine,0.96
+215411,187716768,Dr. Cooke,Radiology,1.00
+215413,187723476,Dr. Collier,Family Medicine,1.00
+215417,187701246,Dr. Benitez,Radiology,0.80
+215419,187710736,Dr. Underwood,Pediatrics,1.00
+215420,187706186,Dr. Richmond,Nuclear Medicine,1.00
+215421,187723190,Dr. Ibarra,Orthopaedic Surgery,0.19
+215423,187703586,Dr. Carr,Emergency Medicine,1.00
+215424,187702936,Dr. Hawkins,Surgery - Surgical Critical Care,0.50
+215426,187720876,Dr. Bright,Family Medicine,0.27
+215427,187701506,Dr. Gordon,Obstetrics & Gynecology,0.80
+215431,187710970,Dr. Sutton,Radiology,0.85
+215436,187706056,Dr. Kane,Internal Medicine,0.82
+215437,187706030,Dr. Rivas,Internal Medicine,0.93
+215443,187722176,Dr. Morris,Orthopaedic Surgery,0.80
+215444,187722384,Dr. Ballard,Family Medicine,0.50
+215445,187715936,Dr. Cook,Internal Medicine,1.00
+215446,187710164,Dr. Nelson,Radiology,0.76
+215447,187709930,Dr. Mclean,Emergency Medicine,1.00
+215450,187707018,Dr. Kelley,Internal Medicine,0.82
+215461,187712166,Dr. Allen,Family Medicine,0.50
+215464,187716898,Dr. Montoya,Pathology,0.80
+215465,187699972,Dr. Cannon,Internal Medicine,0.95
+215466,187717002,Dr. Savage,Family Medicine,0.60
+215471,187709514,Dr. Curtis,Internal Medicine,0.90
+215474,187711958,Dr. Russo,Emergency Medicine,0.60
+215477,187713856,Dr. Rhodes,Neurological Surgery,1.00
+215485,187712868,Dr. Glenn,Internal Medicine,1.00
+215489,187703092,Dr. Landry,Family Medicine,0.50
+215490,187720122,Dr. Butler,Radiology,0.90
+215491,187709020,Dr. Sheppard,Family Medicine,0.15
+215505,187714272,Dr. Simmons,Family Medicine,0.49
+215506,187722722,Dr. Stewart,Hospitalist,1.00
+215508,187713986,Dr. Goodman,Internal Medicine,0.12
+215516,187720824,Dr. Roman,Internal Medicine,0.25
+215517,187723944,Dr. Lloyd,Radiology,0.60
+215518,187718146,Dr. Tanner,Family Medicine,1.00
+215519,187702078,Dr. Meyer,Radiology,0.90
+215521,187716404,Dr. Levy,Family Medicine,1.00
+215522,187722878,Dr. Wilson,Radiology,0.58
+215525,187711516,Dr. Roberson,Emergency Medicine,0.40
+215527,187711204,Dr. Hines,Emergency Medicine,0.73
+215529,187707876,Dr. Peterson,Internal Medicine,1.00
+215533,187701350,Dr. Mooney,Family Medicine,1.00
+215534,187709254,Dr. Anthony,Internal Medicine,1.00
+215540,187712712,Dr. Stevens,Emergency Medicine,0.40
+215542,187707148,Dr. Bell,Radiology,0.95
+215543,187707512,Dr. Kent,Internal Medicine,1.00
+215544,187709722,Dr. Vaughan,Nuclear Medicine,0.95
+215545,187722098,Dr. Harvey,Internal Medicine,1.00
+215546,187714636,Dr. Cobb,Obstetrics & Gynecology,0.85
+215547,187716014,Dr. Figueroa,Pediatrics,0.90
+215548,187718614,Dr. Rodgers,Family Medicine,1.00
+215550,187720564,Dr. Scott,Psychiatry & Neurology,0.11
+215551,187700258,Dr. Copeland,Family Medicine,1.00
+215555,187705562,Dr. Mccormick,Internal Medicine,1.00
+215557,187708812,Dr. Winters,Radiology,0.95
+215558,187721552,Dr. Houston,Obstetrics & Gynecology,1.00
+215561,187719992,Dr. Zimmerman,Internal Medicine,1.00
+215563,187722540,Dr. Mcclure,Surgery - Vascular Surgery,0.20
+215566,187707070,Dr. Lane,Surgery - Surgical Critical Care,0.41
+215568,187717912,Dr. Norton,Pediatrics,1.00
+215572,187705848,Dr. Dean,Internal Medicine,1.00
+215573,187715520,Dr. Thompson,Radiology,1.00
+215576,187700128,Dr. Church,Optometrist,0.95
+215579,187699894,Dr. Rosales,Psychiatry & Neurology,1.00
+215590,187721526,Dr. Lambert,Radiology,0.25
+215595,187701610,Dr. Crane,Pediatrics,0.75
+215597,187706498,Dr. Blanchard,Internal Medicine,0.68
+215598,187706940,Dr. Griffin,Internal Medicine,1.00
+215603,187722254,Dr. Blake,Family Medicine,1.00
+215605,187702208,Dr. Vaughn,Thoracic Surgery (Cardiothoracic Vascular Surgery),1.00
+215611,187705588,Dr. Alexander,Obstetrics & Gynecology,0.70
+215612,187713622,Dr. Black,Orthopaedic Surgery,1.00
+215614,187713596,Dr. Li,Radiology,0.85
+215615,187705016,Dr. Mcknight,Family Medicine,0.90
+215617,187707538,Dr. Shaw,Internal Medicine,1.00
+215619,187711646,Dr. Pittman,Internal Medicine,0.95
+215625,187716378,Dr. Gaines,Surgery,0.80
+215626,187704444,Dr. Mckay,Internal Medicine,0.97
+215628,187713258,Dr. Henson,Pathology,0.50
+215631,187718094,Dr. Davis,Family Medicine,0.80
+215633,187721240,Dr. Hunter,Physical Medicine & Rehabilitation,0.95
+215634,187718588,Dr. Wood,Radiology,0.90
+215637,187714974,Dr. Potts,Family Medicine,1.00
+215641,187702156,Dr. Guerrero,Pediatrics,1.00
+215642,187703118,Dr. Reese,Obstetrics & Gynecology,0.28
+215643,187716248,Dr. Huynh,Radiology,1.00
+215646,187707772,Dr. Lam,Internal Medicine,0.87
+215653,187717704,Dr. Hooper,Radiology,0.57
+215655,187721318,Dr. Fischer,Radiology,0.06
+215656,187700414,Dr. Gibson,Internal Medicine,0.85
+215659,187704288,Dr. Bautista,Pediatrics,1.00
+215664,187723840,Dr. Zavala,Family Medicine,1.00
+215670,187713154,Dr. Luna,Family Medicine,0.80
+215672,187711672,Dr. Mann,Radiology,0.85
+215674,187714870,Dr. Glass,Internal Medicine,0.80
+215679,187708474,Dr. Wilkinson,Radiology,0.95
+215680,187705900,Dr. Kennedy,Internal Medicine,1.00
+215683,187720746,Dr. Cline,Nuclear Medicine,0.95
+215686,187721916,Dr. Jordan,Internal Medicine,0.60
+215688,187715910,Dr. Bradshaw,Internal Medicine,0.50
+215691,187708240,Dr. Kaiser,Internal Medicine,1.00
+215692,187714922,Dr. Byrd,Internal Medicine,0.66
+215693,187704106,Dr. Levine,Internal Medicine,0.90
+215697,187713024,Dr. Proctor,Internal Medicine,0.68
+215698,187709462,Dr. Becker,Internal Medicine,0.90
+215699,187721110,Dr. Fowler,Obstetrics & Gynecology,0.85
+215701,187722280,Dr. Mason,Emergency Medicine,1.00
+215702,187706992,Dr. Roach,Psychiatry & Neurology,0.13
+215703,187722462,Dr. Wilcox,Radiology,0.95
+215705,187722358,Dr. Fox,Emergency Medicine,0.52
+215706,187703378,Dr. Mays,Pathology,0.10
+215708,187709618,Dr. Powers,Radiology,0.60
+215709,187700986,Dr. Perry,Surgery,0.85
+215710,187718666,Dr. Burns,Internal Medicine,0.75
+215711,187720772,Dr. West,Pediatrics,0.90
+215713,187720460,Dr. Velazquez,Obstetrics & Gynecology,0.72
+215714,187712998,Dr. Avery,Pediatrics,0.70
+215717,187708552,Dr. Bentley,Emergency Medicine,1.00
+215720,187705250,Dr. Sweeney,Internal Medicine,0.85
+215722,187703066,Dr. Ross,Internal Medicine,0.93
+215725,187716560,Dr. Reilly,Internal Medicine,0.50
+215726,187709696,Dr. Lester,Emergency Medicine,0.95
+215730,187705432,Dr. Steele,Family Medicine,0.90
+215732,187717288,Dr. Wagner,Family Medicine,0.60
+215733,187708734,Dr. Hoover,Family Medicine,0.80
+215738,187711802,Dr. Day,Internal Medicine,0.94
+215739,187720408,Dr. Wise,Family Medicine,0.60
+215741,187712738,Dr. Thomas,Family Medicine,0.90
+215746,187700466,Dr. Cowan,Dermatology,0.65
+215748,187715078,Dr. Bond,Family Medicine,1.00
+215751,187710450,Dr. James,Emergency Medicine,1.00
+215757,187719030,Dr. Espinoza,Internal Medicine,0.40
+215764,187702260,Dr. Bean,Family Medicine,1.00
+215765,187720278,Dr. Berger,Pediatrics,0.67
+215767,187717600,Dr. Mathews,Radiology,0.65
+215769,187723450,Dr. Moon,Optometrist,0.12
+215770,187703040,Dr. Vargas,Family Medicine,0.69
+215772,187708318,Dr. Craig,Internal Medicine,1.00
+215779,187703846,Dr. Graham,Pediatrics,1.00
+215780,187718978,Dr. Howe,Internal Medicine,1.00
+215781,187711724,Dr. Hale,Family Medicine,0.50
+215782,187710008,Dr. Spears,Emergency Medicine,1.00
+215783,187721968,Dr. Solis,Obstetrics & Gynecology,0.50
+215787,187708630,Dr. Case,Family Medicine,0.90
+215788,187715988,Dr. Caldwell,Psychiatry & Neurology,0.97
+215790,187715468,Dr. Briggs,Surgery,0.41
+215791,187706836,Dr. Meadows,Emergency Medicine,1.00
+215794,187705692,Dr. Walls,Emergency Medicine,1.00
+215795,187714220,Dr. Romero,Physical Medicine & Rehabilitation,0.32
+215797,187708136,Dr. Solomon,Pathology,0.80
+215798,187704392,Dr. Jacobson,Pathology,0.55
+215799,187700492,Dr. Cruz,Radiology,1.00
+215802,187700856,Dr. Gutierrez,Internal Medicine,0.15
+215804,187723398,Dr. Pacheco,Family Medicine,0.30
+215805,187717470,Dr. Singh,Orthopaedic Surgery,0.93
+215812,187709800,Dr. Giles,Obstetrics & Gynecology,1.00
+215815,187721500,Dr. Crawford,Obstetrics & Gynecology,0.60
+215820,187704782,Dr. Hubbard,Internal Medicine,0.93
+215823,187704574,Dr. Calhoun,Internal Medicine,0.17
+215825,187715728,Dr. Martinez,Pathology,0.95
+215826,187701896,Dr. Cardenas,Anesthesiology,0.10
+215827,187708890,Dr. Ellis,Orthopaedic Surgery,0.60
+215828,187700804,Dr. Dickerson,Emergency Medicine,1.00
+215834,187701740,Dr. Ferguson,Pediatrics,0.75
+215836,187710086,Dr. Kelly,Internal Medicine,0.50
+215837,187720018,Dr. Kerr,Family Medicine,1.00
+215838,187721474,Dr. Potter,Surgery,1.00
+215841,187707668,Dr. Reeves,Internal Medicine,0.97
+215843,187700310,Dr. Larson,Internal Medicine,0.70
+215845,187703456,Dr. Haas,Family Medicine,0.90
+215848,187723294,Dr. Parker,Pediatrics,1.00
+215853,187704626,Dr. Bolton,Pathology,0.60
+215855,187715052,Dr. Summers,Pathology,0.50
+215858,187704860,Dr. Fleming,Internal Medicine,0.90
+215859,187702884,Dr. Ramos,Internal Medicine,0.82
+215860,187700830,Dr. Vang,Internal Medicine,0.20
+215861,187702182,Dr. Lowe,Pathology,0.05
+215862,187719472,Dr. Donaldson,Pediatrics,1.00
+215867,187713518,Dr. Benjamin,Family Medicine,1.00
+215871,187703976,Dr. Mata,Internal Medicine,0.80
+215875,187702494,Dr. Welch,Radiology,0.80
+215876,187721292,Dr. Pope,Internal Medicine,1.00
+215878,187718016,Dr. Macdonald,Radiology,0.66
+215879,187707564,Dr. Torres,Internal Medicine,0.80
+215881,187712530,Dr. Randall,Family Medicine,0.90
+215887,187708968,Dr. Richards,Radiology,0.76
+215889,187706394,Dr. Acevedo,Surgery - Vascular Surgery,0.55
+215891,187706680,Dr. Knox,Psychiatry & Neurology,0.45
+215892,187708110,Dr. Green,Internal Medicine,0.16
+215893,187712296,Dr. Gould,Internal Medicine,0.70
+215895,187705770,Dr. Mccall,Family Medicine,0.60
+215896,187722566,Dr. Montes,Internal Medicine,0.93
+215897,187715104,Dr. Brewer,Internal Medicine,1.00
+215898,187704262,Dr. Preston,Pediatrics,1.00
+215900,187711126,Dr. Booker,Family Medicine,0.70
+215903,187706862,Dr. Warner,Family Medicine,1.00
+215904,187710242,Dr. Rosario,Internal Medicine,0.45
+215905,187718926,Dr. Krause,Internal Medicine,1.00
+215909,187705406,Dr. Lee,Internal Medicine,0.20
+215910,187710424,Dr. Morales,Emergency Medicine,1.00
+215913,187711594,Dr. Holden,Pathology,0.55
+215915,187724282,Dr. Gallegos,Pathology,0.65
+215917,187724074,Dr. Schneider,Psychiatry & Neurology,0.73
+215918,187713934,Dr. Ho,Obstetrics & Gynecology,0.95
+215920,187723996,Dr. Wang,Physical Medicine & Rehabilitation,0.50
+215921,187712660,Dr. Baxter,Radiology,1.00
+215925,187724178,Dr. Walters,Internal Medicine,1.00
+215926,187702052,Dr. Archer,Internal Medicine,0.07
+215928,187711620,Dr. Maddox,Family Medicine,0.70
+215931,187702728,Dr. Forbes,Internal Medicine,0.20
+215935,187702026,Dr. Cervantes,Pediatrics,0.95
+215941,187722774,Dr. Sandoval,Psychiatry & Neurology,0.93
+215943,187707252,Dr. Newman,Family Medicine,0.17
+215944,187720356,Dr. Mcneil,Otolaryngology,0.14
+215945,187715832,Dr. Ali,Internal Medicine,1.00
+215950,187713674,Dr. Rose,Surgery,1.00
+215952,187713908,Dr. Lin,Emergency Medicine,1.00
+215953,187722124,Dr. Shepherd,Pediatrics,0.70
+215955,187703482,Dr. Sampson,Family Medicine,0.80
+215957,187710554,Dr. Sanchez,Internal Medicine,0.85
+215959,187704678,Dr. Peck,Internal Medicine,0.67
+215963,187712244,Dr. Lucero,Pediatrics,0.90
+215966,187714584,Dr. Gilmore,Internal Medicine,1.00
+215967,187710996,Dr. Haley,Pediatrics,0.24
+215968,187704236,Dr. Nichols,Internal Medicine,0.80
+215974,187713960,Dr. Delacruz,Internal Medicine,1.00
+215975,187709358,Dr. English,Internal Medicine,0.25
+215982,187702806,Dr. Clark,Internal Medicine,1.00
+215988,187714194,Dr. Ware,Family Medicine,0.80
+215989,187708994,Dr. Berg,Pediatrics,1.00
+215990,187704990,Dr. Pruitt,Family Medicine,0.75
+215991,187717574,Dr. Sullivan,Radiology,0.90
+215992,187721396,Dr. Crosby,Internal Medicine,0.93
+215993,187703716,Dr. Padilla,Radiology,0.95
+215995,187723112,Dr. Randolph,Radiology,0.71
+215997,187704548,Dr. Reid,Family Medicine,0.25
+215999,187718120,Dr. Stanley,Internal Medicine,0.55
+216000,187716846,Dr. Moreno,Internal Medicine,0.55
+216002,187706810,Dr. Jensen,Psychiatry & Neurology,0.83
+216003,187712920,Dr. Finley,Radiology,0.95
+216006,187719498,Dr. Barber,Internal Medicine,1.00
+216007,187715754,Dr. King,Internal Medicine,0.80
+216009,187707226,Dr. Mercer,Family Medicine,1.00
+216013,187715858,Dr. Morton,Surgery - Vascular Surgery,0.30
+216015,187716196,Dr. Matthews,Radiology,1.00
+216017,187720382,Dr. Benson,Internal Medicine,1.00
+216019,187700752,Dr. Huang,Internal Medicine,0.65
+216021,187714428,Dr. Smith,Internal Medicine,0.50
+216022,187707330,Dr. Stone,Internal Medicine,0.60
+216026,187699998,Dr. Parrish,Internal Medicine,0.58
+216027,187721994,Dr. Mora,Pediatrics,0.80
+216036,187721786,Dr. Wade,Pathology,0.95
+216038,187723788,Dr. Hendrix,Internal Medicine,1.00
+216039,187707590,Dr. Cantu,Family Medicine,1.00
+216040,187710398,Dr. Frost,Internal Medicine,0.98
+216044,187705536,Dr. Andersen,Psychiatry & Neurology,0.70
+216046,187710112,Dr. Gardner,Internal Medicine,1.00
+216050,187709670,Dr. Gonzales,Pediatrics,0.30
+216052,187722748,Dr. Stark,Internal Medicine,0.05
+216053,187701584,Dr. Dodson,Internal Medicine,1.00
+216063,187700076,Dr. Alvarado,Family Medicine,0.40
+216064,187708578,Dr. Conrad,Internal Medicine,0.50
+216065,187704522,Dr. Flynn,Surgery - Vascular Surgery,1.00
+216068,187700284,Dr. Franco,Internal Medicine,1.00
+216069,187707824,Dr. Christian,Family Medicine,0.01
+216070,187717054,Dr. Valenzuela,Internal Medicine,0.50
+216072,187723658,Dr. Hayden,Pathology,0.66
+216075,187699920,Dr. Maynard,Surgery,0.85
+216076,187708526,Dr. Weiss,Pathology,0.80
+216082,187716222,Dr. Barker,Radiology,0.76
+216083,187721032,Dr. Yang,Radiology,0.90
+216085,187706368,Dr. Hutchinson,Internal Medicine,1.00
+216086,187708006,Dr. Anderson,Surgery,1.00
+216088,187712894,Dr. Hart,Surgery,1.00
+216099,187715000,Dr. Shepard,Family Medicine,1.00
+216100,187706732,Dr. Payne,Psychiatry & Neurology,1.00
+216102,187700778,Dr. George,Internal Medicine,0.85
+216104,187705458,Dr. Cabrera,Internal Medicine,0.30
+216106,187700206,Dr. Arroyo,Family Medicine,0.70
+216108,187702234,Dr. Richard,Internal Medicine,1.00
+216109,187712556,Dr. Estes,Internal Medicine,0.75
+216111,187717808,Dr. Leonard,Thoracic Surgery (Cardiothoracic Vascular Surgery),0.90
+216112,187704886,Dr. Spence,Family Medicine,1.00
+216116,187705302,Dr. Flowers,Internal Medicine,1.00
+216117,187703430,Dr. Herman,Surgery,0.21
+216119,187716040,Dr. Blackburn,Internal Medicine,0.29
+216123,187719368,Dr. Mcclain,Family Medicine,0.55
+216126,187709566,Dr. Lang,Family Medicine,0.50
+216129,187713570,Dr. Watson,Internal Medicine,0.54
+216133,187719238,Dr. Harding,Internal Medicine,1.00
+216134,187703170,Dr. Middleton,Family Medicine,0.90
+216135,187715312,Dr. Brennan,Radiology,0.75
+216136,187703144,Dr. Rubio,Obstetrics & Gynecology,0.30
+216140,187723034,Dr. Campbell,Radiology,0.95
+216141,187710268,Dr. Duran,Internal Medicine,1.00
+216142,187713440,Dr. Chase,Family Medicine,1.00
+216145,187721370,Dr. Ortiz,Surgery - Vascular Surgery,0.20
+216146,187716924,Dr. Yu,Internal Medicine,0.57
+216150,187717340,Dr. Cox,Orthopaedic Surgery,1.00
+216158,187708916,Dr. Greene,Pediatrics,0.50
+216161,187723606,Dr. Skinner,Internal Medicine,1.00
+216162,187720226,Dr. Weber,Radiology,1.00
+216167,187721656,Dr. Brandt,Emergency Medicine,1.00
+216168,187721084,Dr. Murillo,Obstetrics & Gynecology,1.00
+216170,187700440,Dr. Clarke,Thoracic Surgery (Cardiothoracic Vascular Surgery),0.90
+216172,187701844,Dr. Webb,Internal Medicine,0.68
+216173,187721136,Dr. Browning,Family Medicine,1.00
+216178,187723372,Dr. Garza,Internal Medicine,0.90
+216181,187707798,Dr. Rush,Pediatrics,0.90
+216184,187708760,Dr. Harrell,Emergency Medicine,1.00
+216185,187707746,Dr. Blackwell,Internal Medicine,1.00
+216186,187714844,Dr. Rios,Internal Medicine,0.80
+216187,187715286,Dr. Velasquez,Obstetrics & Gynecology,0.90
+216188,187705666,Dr. Wong,Radiology,0.95
+216189,187713284,Dr. Bridges,Obstetrics & Gynecology,0.80
+216190,187720096,Dr. Deleon,Internal Medicine,0.50
+216191,187719160,Dr. Wright,Family Medicine,0.50
+216193,187703638,Dr. Ruiz,Family Medicine,0.60
+216194,187701324,Dr. Walsh,Orthopaedic Surgery,0.28
+216197,187703768,Dr. Riggs,Pathology,0.95
+216202,187713882,Dr. Shaffer,Internal Medicine,1.00
+216203,187713726,Dr. Davenport,Family Medicine,1.00
+216206,187700960,Dr. Silva,Family Medicine,1.00
+216212,187724100,Dr. Gray,Radiology,1.00
+216213,187717236,Dr. Marks,Radiology,1.00
+216215,187722982,Dr. Orozco,Family Medicine,0.55
+216219,187716092,Dr. Humphrey,Pediatrics,1.00
+216223,187723164,Dr. Golden,Pediatrics,1.00
+216225,187705120,Dr. Terry,Internal Medicine,0.22
+216227,187712140,Dr. Gillespie,Internal Medicine,0.58
+216228,187713362,Dr. Hill,Internal Medicine,0.72
+216232,187722436,Dr. Stout,Radiology,0.95
+216233,187710632,Dr. Cuevas,Radiology,0.35
+216235,187714792,Dr. Bailey,Family Medicine,1.00
+216238,187716586,Dr. Pace,Internal Medicine,0.60
+216242,187710944,Dr. Mathis,Family Medicine,1.00
+216246,187704808,Dr. Hampton,Psychologist,0.26
+216247,187720616,Dr. Werner,Obstetrics & Gynecology,0.97
+216248,187706004,Dr. Mendez,Obstetrics & Gynecology,0.80
+216250,187720512,Dr. Wilkerson,Internal Medicine,0.93
+216255,187716170,Dr. Holloway,Pediatrics,1.00
+216258,187702546,Dr. Jenkins,Pediatrics,1.00
+216260,187705718,Dr. Hess,Obstetrics & Gynecology,0.46
+216261,187702962,Dr. Singleton,Surgery,0.80
+216262,187713388,Dr. Bryan,Urology,1.00
+216265,187715884,Dr. Collins,Radiology,0.45
+216266,187706888,Dr. Patton,Internal Medicine,0.50
+216268,187719264,Dr. Burch,Internal Medicine,0.95
+216269,187717392,Dr. Farmer,Internal Medicine,1.00
+216274,187715702,Dr. Swanson,Internal Medicine,0.90
+216278,187702000,Dr. Shields,Family Medicine,1.00
+216281,187720330,Dr. Oneal,Hospitalist,1.00
+216283,187716742,Dr. Carney,Family Medicine,0.75
+216284,187705510,Dr. Meza,Pediatrics,0.86
+216286,187710476,Dr. Osborn,Obstetrics & Gynecology,0.95
+216288,187701454,Dr. Dawson,Internal Medicine,1.00
+216289,187721864,Dr. Hahn,Radiology,0.76
+216290,187707954,Dr. Stevenson,Pathology,0.70
+216292,187710866,Dr. Farley,Family Medicine,0.80
+216295,187714246,Dr. Berry,Internal Medicine,0.80
+216301,187712504,Dr. Ward,Internal Medicine,0.80
+216306,187718640,Dr. Duncan,Internal Medicine,1.00
+216308,187715338,Dr. Andrews,Pathology,0.75
+216311,187714012,Dr. Maldonado,Internal Medicine,0.71
+216312,187710190,Dr. Good,Orthopaedic Surgery,0.90
+216317,187717314,Dr. May,Internal Medicine,1.00
+216318,187701402,Dr. Mcdaniel,Family Medicine,1.00
+216321,187718302,Dr. Cochran,Pathology,1.00
+216322,187719524,Dr. Frey,Internal Medicine,0.20
+216324,187720252,Dr. Hammond,Obstetrics & Gynecology,0.88
+216326,187718874,Dr. Wallace,Internal Medicine,1.00
+216334,187719134,Dr. Moses,Surgery,1.00
+216336,187716638,Dr. Lozano,Obstetrics & Gynecology,0.67
+216338,187722514,Dr. Lara,Obstetrics & Gynecology,0.85
+216340,187711438,Dr. Heath,Radiology,0.90
+216345,187711022,Dr. Mcintyre,Psychiatry & Neurology,0.53
+216347,187700726,Dr. Arellano,Radiology,0.90
+216349,187701792,Dr. Hancock,Family Medicine,1.00
+216350,187712634,Dr. Hayes,Pediatrics,1.00
+216351,187709384,Dr. Osborne,Radiology,0.18
+216352,187717210,Dr. Dudley,Internal Medicine,0.92
+216353,187714558,Dr. Nunez,Emergency Medicine,0.81
+216354,187701428,Dr. Grant,Pediatrics,0.30
+216360,187723710,Dr. Buckley,Pathology,0.95
+216368,187717496,Dr. Cortez,Radiology,0.90
+216374,187720902,Dr. Chan,Family Medicine,1.00
+216377,187711074,Dr. Goodwin,Emergency Medicine,1.00
+216378,187721760,Dr. Odom,Pathology,0.65
+216382,187710060,Dr. Fitzgerald,Radiology,0.70
+216383,187719654,Dr. Joseph,Internal Medicine,0.95
+216389,187702390,Dr. Schroeder,Internal Medicine,0.25
+216390,187718458,Dr. Contreras,Family Medicine,0.50
+216391,187712270,Dr. Ford,Internal Medicine,0.56
+216397,187703872,Dr. Koch,Radiology,1.00
+216398,187715650,Dr. Knapp,Internal Medicine,0.27
+216399,187704080,Dr. Barnes,Obstetrics & Gynecology,1.00
+216402,187721266,Dr. Jackson,Family Medicine,1.00
+216405,187717782,Dr. Mitchell,Surgery - Vascular Surgery,0.73
+216407,187707902,Dr. Alvarez,Family Medicine,1.00
+216408,187706160,Dr. Blevins,Family Medicine,1.00
+216412,187717184,Dr. Hendricks,Physical Medicine & Rehabilitation,0.00
+216414,187722904,Dr. Braun,Pathology,0.60
+216417,187720304,Dr. Frye,Orthopaedic Surgery,1.00
+216419,187722228,Dr. Sanders,Family Medicine,1.00
+216421,187707122,Dr. Herring,Internal Medicine,0.85
+216427,187723424,Dr. Erickson,Pediatrics,0.80
+216428,187704132,Dr. Santos,Radiology,0.85
+216432,187718068,Dr. Galvan,Pathology,0.05
+216435,187720486,Dr. Atkins,Radiology,0.65
+216436,187723762,Dr. Stein,Obstetrics & Gynecology,1.00
+216438,187700908,Dr. Hinton,Psychologist,0.30
+216441,187719628,Dr. Marquez,Emergency Medicine,0.80
+216445,187719836,Dr. Burton,Pediatrics,0.75
+216446,187711906,Dr. Rojas,Nuclear Medicine,0.95
+216451,187706446,Dr. Duffy,Emergency Medicine,0.86
+216452,187722202,Dr. Hood,Nuclear Medicine,1.00
+216453,187712452,Dr. Davidson,Family Medicine,0.45
+216454,187714064,Dr. Austin,Internal Medicine,0.15
+216455,187703196,Dr. Garrison,Internal Medicine,0.68
+216456,187709644,Dr. Morrison,Radiology,0.95
+216457,187702520,Dr. Hatfield,Pediatrics,0.89
+216458,187713700,Dr. Dalton,Family Medicine,1.00
+216466,187711880,Dr. Greer,Radiology,0.70
+216467,187711282,Dr. Mendoza,Family Medicine,0.62
+216469,187707460,Dr. Blair,Pathology,0.55
+216471,187712114,Dr. Salinas,Pediatrics,1.00
+216475,187700648,Dr. Kirk,Pathology,0.70
+216483,187709280,Dr. Chapman,Radiology,0.20
+216487,187700232,Dr. Rogers,Radiology,1.00
+216489,187722410,Dr. Davila,Internal Medicine,1.00
+216492,187717080,Dr. Stephenson,Internal Medicine,1.00
+216494,187704184,Dr. Little,Radiology,1.00
+216509,187704470,Dr. Khan,Family Medicine,1.00
+216512,187715780,Dr. Riley,Emergency Medicine,1.00
+216516,187723502,Dr. Brady,Obstetrics & Gynecology,1.00
+216519,187709826,Dr. Chavez,Radiology,0.95
+216520,187710216,Dr. Mcpherson,Pediatrics,1.00
+216525,187722020,Dr. Hunt,Internal Medicine,0.63
+216526,187705926,Dr. Baird,Psychologist,0.49
+216528,187712764,Dr. Dunn,Psychiatry & Neurology,0.06
+216532,187707928,Dr. Holmes,Surgery - Pediatric Surgery,1.00
+216537,187722592,Dr. Sanford,Internal Medicine,1.00
+216541,187712972,Dr. Graves,Orthopaedic Surgery,0.44
+216545,187716482,Dr. Bates,Family Medicine,0.90
+216546,187723684,Dr. Ayers,Radiology,0.60
+216549,187724204,Dr. Conway,Radiology,0.76
+216550,187710346,Dr. Rollins,Pediatrics,0.70
+216551,187717834,Dr. Holt,Pediatrics,0.90
+216552,187702598,Dr. Moss,Internal Medicine,0.40
+216553,187711698,Dr. Oconnell,Internal Medicine,1.00
+216555,187714090,Dr. Park,Family Medicine,1.00
+216556,187721604,Dr. Gamble,Internal Medicine,0.30
+216558,187709878,Dr. Chen,Obstetrics & Gynecology,0.90
+216560,187719940,Dr. Cohen,Pediatrics,1.00
+216562,187701220,Dr. Baldwin,Internal Medicine,0.55
+216564,187715130,Dr. Ashley,Pathology,0.95
+216565,187709774,Dr. Tucker,Internal Medicine,0.50
+216571,187711464,Dr. Hull,Surgery - Surgical Oncology,1.00
+216576,187708292,Dr. Carey,Orthopaedic Surgery,0.33
+216577,187705484,Dr. Nielsen,Obstetrics & Gynecology,0.69
+216580,187705978,Dr. Weeks,Obstetrics & Gynecology,0.92
+216582,187702832,Dr. Wheeler,Orthopaedic Surgery,0.90
+216584,187718718,Dr. Dominguez,Internal Medicine,0.40
+216585,187720850,Dr. Gregory,Internal Medicine,0.95
+216586,187708838,Dr. Francis,Ophthalmology,1.00
+216587,187718900,Dr. Cooley,Internal Medicine,1.00
+216589,187700544,Dr. Schmitt,Family Medicine,1.00
+216590,187704054,Dr. Banks,Emergency Medicine,1.00
+216592,187722852,Dr. Kemp,Radiology,0.47
+216593,187709592,Dr. Merritt,Internal Medicine,0.97
+216595,187719212,Dr. Hardy,Internal Medicine,0.30
+216597,187702286,Dr. Grimes,Emergency Medicine,1.00
+216599,187716508,Dr. Todd,Family Medicine,1.00
+216602,187721344,Dr. Daniel,Pediatrics,0.47
+216604,187714818,Dr. Logan,Family Medicine,0.57
+216605,187703560,Dr. Pena,Family Medicine,0.96
+216612,187700336,Dr. Murray,Radiology,0.95
+216613,187712374,Dr. Hensley,Family Medicine,0.50
+216619,187710840,Dr. Colon,Internal Medicine,0.77
+216625,187721578,Dr. Haynes,Emergency Medicine,1.00
+216626,187718276,Dr. Harper,Internal Medicine,1.00
+216627,187708942,Dr. Castro,Surgery,0.80
+216628,187707304,Dr. Evans,Internal Medicine,0.85
+216629,187723346,Dr. Ingram,Internal Medicine,0.90
+216631,187718510,Dr. Macias,Emergency Medicine,1.00
+216639,187721682,Dr. Rowe,Family Medicine,0.13
+216641,187701272,Dr. Stafford,Pathology,0.20
+216643,187705796,Dr. Dillon,Psychologist,0.40
+216644,187714532,Dr. Lucas,Surgery - Vascular Surgery,0.55
+216650,187723268,Dr. Freeman,Internal Medicine,1.00
+216651,187719316,Dr. Huffman,Ophthalmology,0.26
+216654,187718406,Dr. Doyle,Psychologist,0.18
+216656,187715494,Dr. Floyd,Internal Medicine,0.93
+216659,187716118,Dr. Barron,Internal Medicine,1.00
+216660,187714038,Dr. Tran,Internal Medicine,0.50
+216661,187700180,Dr. Mckinney,Radiology,0.95
+216665,187720044,Dr. Weaver,Internal Medicine,0.75
+216667,187718744,Dr. Jennings,Transplant Surgery,0.80
+216668,187705380,Dr. Haney,Internal Medicine,0.83
+216672,187722956,Dr. Terrell,Surgery,0.85
+216674,187702468,Dr. Hartman,Obstetrics & Gynecology,0.65
+216675,187713050,Dr. Boyd,Internal Medicine,0.80
+216678,187703742,Dr. Medina,Obstetrics & Gynecology,0.27
+216680,187723008,Dr. Taylor,Internal Medicine,1.00
+216681,187719576,Dr. Mcgee,Internal Medicine,0.15
+216682,187710502,Dr. Brooks,Internal Medicine,1.00
+216684,187701168,Dr. Hoffman,Psychologist,0.17
+216686,187712478,Dr. Livingston,Thoracic Surgery (Cardiothoracic Vascular Surgery),1.00
+216688,187714350,Dr. Lawrence,Family Medicine,0.60
+216690,187722826,Dr. Mccullough,Emergency Medicine,1.00
+216691,187710814,Dr. Garrett,Plastic Surgery,1.00
+216697,187710710,Dr. Gallagher,Radiology,0.57
+216699,187704704,Dr. Moody,Surgery - Surgical Critical Care,1.00
+216702,187722488,Dr. Morgan,Radiology,0.90
+216707,187704210,Dr. Casey,Internal Medicine,0.67
+216708,187714142,Dr. Aguirre,Radiology,0.76
+216710,187714376,Dr. Ramsey,Psychiatry & Neurology,0.93
+216713,187702754,Dr. Schaefer,Internal Medicine,1.00
+216716,187723970,Dr. Hamilton,Obstetrics & Gynecology,0.55
+216725,187713414,Dr. Downs,Internal Medicine,0.15
+216727,187713466,Dr. Friedman,Obstetrics & Gynecology,0.97
+216731,187716456,Dr. Nolan,Radiology,0.95
+216732,187711984,Dr. Manning,Internal Medicine,1.00
+216733,187716820,Dr. Porter,Internal Medicine,0.65
+216734,187708864,Dr. Aguilar,Radiology,0.75
+216735,187703690,Dr. Gill,Radiology,0.71
+216736,187706342,Dr. Stokes,Obstetrics & Gynecology,1.00
+216738,187713804,Dr. Hurley,Internal Medicine,1.00
+216742,187720720,Dr. Jones,Obstetrics & Gynecology,0.48
+216744,187722150,Dr. Cummings,Pediatrics,0.80
+216747,187723528,Dr. Molina,Family Medicine,0.92
+216748,187706784,Dr. Hurst,Internal Medicine,0.82
+216752,187704964,Dr. Whitehead,Internal Medicine,0.91
+216758,187710580,Dr. Perez,Obstetrics & Gynecology,0.97
+216760,187704600,Dr. Paul,Internal Medicine,0.85
+216761,187710372,Dr. Frazier,Radiology,1.00
+216762,187702338,Dr. Short,Internal Medicine,1.00
+216764,187705354,Dr. Hogan,Family Medicine,0.50
+216767,187710788,Dr. Escobar,Internal Medicine,0.90
+216768,187723632,Dr. Everett,Radiology,0.95
+216769,187719186,Dr. Mccarthy,Internal Medicine,0.90
+216773,187706472,Dr. Mcbride,Physical Medicine & Rehabilitation,0.80
+216780,187717730,Dr. Ramirez,Internal Medicine,1.00
+216782,187701870,Dr. Glover,Internal Medicine,0.26
+216785,187714610,Dr. Patrick,Thoracic Surgery (Cardiothoracic Vascular Surgery),1.00
+216787,187711360,Dr. Schultz,Internal Medicine,0.78
+216791,187717522,Dr. Calderon,Obstetrics & Gynecology,1.00
+216798,187707616,Dr. Barajas,Pediatrics,1.00
+216799,187723320,Dr. Galloway,Radiology,0.95
+216800,187720070,Dr. Reynolds,Surgery - Vascular Surgery,0.63
+216805,187709072,Dr. Maxwell,Surgery,0.60
+216806,187717678,Dr. Avila,Orthopaedic Surgery,0.16
+216813,187711230,Dr. Ray,Family Medicine,1.00
+216814,187704834,Dr. Zamora,Surgery - Vascular Surgery,0.30
+216816,187704002,Dr. Shannon,Surgery,0.85
+216819,187721058,Dr. Howard,Pathology,0.85
+216820,187702442,Dr. Beasley,Internal Medicine,1.00
+216823,187722696,Dr. Cantrell,Pathology,0.40
+216824,187703352,Dr. Moore,Emergency Medicine,0.68
+216826,187706654,Dr. Hughes,Internal Medicine,0.70
+216827,187701142,Dr. Wolfe,Orthopaedic Surgery,0.38
+216828,187716274,Dr. Nicholson,Thoracic Surgery (Cardiothoracic Vascular Surgery),1.00
+216829,187719004,Dr. Parsons,Radiology,0.50
+216832,187723086,Dr. Murphy,Radiology,0.95
+216834,187716976,Dr. Whitney,Neurological Surgery,1.00
+216836,187703950,Dr. Kramer,Pediatrics,0.60
+216840,187708344,Dr. Jarvis,Physical Medicine & Rehabilitation,1.00
+216842,187717262,Dr. Mueller,Pediatrics,0.60
+216844,187721448,Dr. Watkins,Family Medicine,1.00
+216850,187713102,Dr. Pearson,Internal Medicine,1.00
+216854,187702364,Dr. Rivers,Radiology,1.00
+216856,187714454,Dr. Burnett,Emergency Medicine,0.60
+216858,187701480,Dr. Wolf,Internal Medicine,0.40
+216862,187700622,Dr. Mejia,Internal Medicine,1.00
+216863,187719394,Dr. Carson,Surgery,1.00
+216864,187705224,Dr. Shah,Surgery,0.20
+216867,187711386,Dr. Mcgrath,Emergency Medicine,0.95
+216869,187720434,Dr. Suarez,Obstetrics & Gynecology,0.90
+216871,187705952,Dr. Eaton,Pediatrics,0.88
+216872,187707850,Dr. Mack,Internal Medicine,1.00
+216873,187708214,Dr. Burke,Surgery,0.90
+216874,187705614,Dr. Robles,Internal Medicine,0.92
+216875,187709982,Dr. Bowers,Internal Medicine,0.60
+216877,187724048,Dr. Bennett,Internal Medicine,0.95
+216880,187708656,Dr. Simon,Family Medicine,1.00
+216883,187713128,Dr. Keller,Pathology,0.80
+216886,187703222,Dr. Pham,Pediatrics,1.00
+216887,187721942,Dr. Wu,Pediatrics,0.40
+216888,187708604,Dr. Hudson,Family Medicine,0.60
+216889,187700388,Dr. Huff,Thoracic Surgery (Cardiothoracic Vascular Surgery),0.40
+216893,187703664,Dr. Pugh,Pathology,0.60
+216894,187704938,Dr. Mcmahon,Family Medicine,0.80
+216896,187710034,Dr. Waller,Internal Medicine,0.60
+216897,187701064,Dr. Branch,Internal Medicine,0.70
+216898,187706316,Dr. Bishop,Family Medicine,0.70
+216900,187703300,Dr. Price,Internal Medicine,0.94
+216902,187712088,Dr. Mclaughlin,Internal Medicine,1.00
+216903,187709436,Dr. Duarte,Family Medicine,0.80
+216904,187722046,Dr. Moran,Radiology,0.75
+216907,187716352,Dr. Allison,Pathology,0.95
+216908,187714168,Dr. Chandler,Internal Medicine,1.00
+216909,187710658,Dr. Chang,Nuclear Medicine,1.00
+216911,187724256,Dr. Wall,Family Medicine,0.80
+216913,187718042,Dr. Valentine,Family Medicine,0.75
+216915,187722670,Dr. Patterson,Internal Medicine,0.78
+216916,187724230,Dr. Larsen,Family Medicine,1.00
+216918,187711308,Dr. Robertson,Family Medicine,0.60
+216919,187704314,Dr. Bradford,Family Medicine,0.53
+216922,187702988,Dr. Ball,Obstetrics & Gynecology,0.90
+216923,187723892,Dr. Ewing,Radiology,0.95
+216924,187709150,Dr. Robbins,Internal Medicine,1.00
+216926,187707720,Dr. Washington,Obstetrics & Gynecology,0.97
+216928,187708266,Dr. Roberts,Pediatrics,0.60
+216930,187705640,Dr. Shea,Radiology,0.85
+216934,187714506,Dr. Owen,Radiology,0.80
+216935,187705276,Dr. Walker,Radiology,0.76
+216937,187720798,Dr. Love,Internal Medicine,0.92
+216943,187701766,Dr. Huerta,Family Medicine,1.00
+216945,187707980,Dr. Barton,Family Medicine,1.00
+216950,187714766,Dr. Abbott,Pediatrics,0.90
+216998,187703014,Dr. Bender,Internal Medicine,0.17
+217022,187708162,Dr. Kim,Psychologist,0.44
+217038,187712348,Dr. White,Psychologist,0.49
+217072,187717626,Dr. Frederick,Physical Medicine & Rehabilitation,0.20
+217089,187718692,Dr. Jimenez,Obstetrics & Gynecology,0.40
+217113,187717366,Dr. Carrillo,Surgery - Pediatric Surgery,0.35
+217122,187700674,Dr. Choi,Obstetrics & Gynecology,0.70
+217130,187711568,Dr. Carter,Obstetrics & Gynecology,0.06
+217142,187719810,Dr. Sawyer,Radiology,0.40
+217237,187716950,Dr. Leach,Internal Medicine,0.18
+217390,187707096,Dr. Tapia,Pediatrics,0.26
+217472,187715156,Dr. Patel,Urology,0.34
+218243,187709852,Dr. Pitts,Internal Medicine,1.00
+218365,187716872,Dr. Spencer,Family Medicine,0.21
